@@ -7,3 +7,6 @@ To go to the website you can  click the link: https://loanapproval-y5je5nhnc5zzt
 
 
 ![image](https://github.com/debnarayankundu/loan_approval/assets/159264658/e19928bd-6292-427c-a9b6-02ac022b33ae)
+
+![image](https://github.com/debnarayankundu/loan_approval/assets/159264658/640b1bfe-5d0d-4652-a5cd-2ec37e7a9a47)
+
