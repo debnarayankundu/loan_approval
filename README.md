@@ -22,23 +22,7 @@ The dataset includes the following features:
 - `Loan History`: Previous loan repayment history
 - `Outcome`: Loan eligibility status (0 or 1)
 
-## Installation
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/loan-eligibility-prediction.git
-    cd loan-eligibility-prediction
-    ```
 
-2. Create and activate a virtual environment:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 1. Prepare the dataset:
@@ -46,13 +30,12 @@ The dataset includes the following features:
     - Place the dataset file (e.g., `loan_data.csv`) in the `data/` directory.
 
 2. Run the data preprocessing and training script:
-    ```sh
-    python train_model.py
-    ```
+   
+   loanapproval.ipynb  
 
 3. Evaluate the model:
-    ```sh
-    python evaluate_model.py
+   
+    loanapproval.py
 
 To go to the website you can  click the link: https://loanapproval-y5je5nhnc5zztsmnv7isy7.streamlit.app/
 
