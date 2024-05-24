@@ -1,9 +1,9 @@
-# Loan Eligibility Prediction
+# Loan Approval Prediction
 
 This project aims to predict whether an individual is eligible for a loan based on various personal and financial information using a machine learning model.
 
 ## Introduction
-Loan eligibility prediction is an important task for financial institutions to minimize risk and ensure responsible lending. This project leverages machine learning to predict loan eligibility based on several key features such as CIBIL score, bank assets, loan amount, and more.
+Loan Approval Prediction is an important task for financial institutions to minimize risk and ensure responsible lending. This project leverages machine learning to predict loan eligibility based on several key features such as CIBIL score, bank assets, loan amount, and more.
 
 
 
