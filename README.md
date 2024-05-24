@@ -27,7 +27,7 @@ The dataset includes the following features:
 ## Usage
 1. Prepare the dataset:
     - Collect the dataset and ensure it includes the necessary features.
-    - Place the dataset file (e.g., `loan_data.csv`) in the `data/` directory.
+       (here I have used `loan_approval_dataset.csv` dataset)
 
 2. Run the data preprocessing and training script:
    
